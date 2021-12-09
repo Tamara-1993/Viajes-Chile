@@ -1,0 +1,46 @@
+html{
+    scroll-behavior: auto !important;
+}
+
+body{
+    background-color: black;
+}
+
+.navbar{
+    right:0px;
+}
+
+.navbar img{
+    width: 5%;
+    height: auto;
+}
+
+h3,h4,h5,p{
+    color: white;
+}
+
+.card-header{
+    background-color: #2e9ba6;
+}
+
+.color-celeste{
+    background-color: #2e9ba6;
+}
+
+.border-bottom{
+    border-bottom:2px solid #2e9ba6!important
+}
+
+
+.fas, .fab{
+    font-size: x-large;
+    color: white;
+}
+
+footer{
+    font-family:'Roboto', sans-serif;
+    background-color: #2e9ba6;
+}
+
+
+
