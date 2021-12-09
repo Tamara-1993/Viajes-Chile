@@ -7,7 +7,7 @@ $(document).ready(function(){
       {
          scrollTop: $(gato).offset().top 
       },
-      3000
+      800
      );
  });
 });
